@@ -3,8 +3,8 @@
 Soy Tech Lead y desarrollador con experiencia en diversos lenguajes como Java,Python,Javascript, uso de React y desarrollo de APIs robustas. 
 
 ## 🚀 Proyectos destacados
-- [Comparador de precios de supermercados, python+scraping](https://github.com/abalart/web-scraping)
-- [API ultra eficiente que busca productos](https://github.com/abalart/product-search)
+- [Comparador de precios de supermercados usando python+scraping](https://github.com/abalart/web-scraping)
+- [API ultra eficiente para e-commerce que busca productos](https://github.com/abalart/product-search)
 - [Frontend que simula un e-commerce ultra eficiente que busca productos](https://github.com/abalart/product-search-front)
 
 ## 🌐 Contacto
